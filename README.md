@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [The `<s>` HTML element renders text with a strikethrough, or a line through it.](https://www.example.com) - Esto me ayudo para ahorrar lineas de css
+- [The `<s>` HTML element renders text with a strikethrough, or a line through it.](https://twitter.com/denicmarko/status/1567102368419807232) - Esto me ayudo para ahorrar lineas de css
 
 ## Author
 
