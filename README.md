@@ -42,6 +42,8 @@ Users should be able to:
 - CSS Grid
 - CSS media queries
 
+### Useful resources
+
 - [The `<s>` HTML element renders text with a strikethrough, or a line through it.](https://twitter.com/denicmarko/status/1567102368419807232) - Esto me ayudó a ahorrar líneas de css.
 
 ## Author
